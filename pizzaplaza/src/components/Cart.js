@@ -176,7 +176,7 @@ function Cart() {
 
 { costMain!=0?     <div className="container m-5 text-center">
         <h2>Total Cost</h2>
-        <h3>{costMain}</h3>
+        <h3>$ &nbsp; {costMain}</h3>
         {count == 0 ? (
           <button className="btn btn-secondary" onClick={() => paymentevent()}>
             Click to confirm{" "}
