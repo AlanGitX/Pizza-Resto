@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "6415bd0af2a41206c73e776c"
+  },
+  "description": "Sprite 330ml",
+  "id": 2,
+  "image": "https://i.imgur.com/qP4Nx1x.jpg",
+  "ingredients": [],
+  "name": "Sprite",
+  "price": 5,
+  "spicy": false,
+  "vegetarian": false,
+  "num": 1,
+  "__v": 0
+}
